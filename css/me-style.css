@@ -42,6 +42,20 @@ p{
   	font-size: 1rem;
 }
 
+.logo{
+	fill:SteelBlue;
+	fill-opacity:"0.20";
+	width:150px;
+	height:150px;
+}
+
+a:hover .logo{
+	fill:#007bff;
+}
+a:active .logo{
+	fill:Plum;
+}
+	
 #interests{
 	border: red 2px solid;
 	padding: 0.5em 1em;
